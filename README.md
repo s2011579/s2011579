@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @s2011579
-- 👀 I’m interested in YUTAKANAKURASHI
-- 🌱 I’m currently learning Flask
+- 👋 Hi, I’m Kobayashi Hayato.
+- 👀 I’m interested in HCI.
 
 <!---
 s2011579/s2011579 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
